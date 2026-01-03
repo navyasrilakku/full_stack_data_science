@@ -1,0 +1,44 @@
+write your understanding on
+1) Frequency table
+
+
+    frequency table is a categorical column representation. it has two columns
+---   class and class frequency
+
+
+class:-
+-----------
+the number of unique labels in the above example we have two labels called as 'b' and 'g'
+
+class frequency:-
+------------------------
+ frquency:-      number of cycles per second 
+ 
+
+the count of each label 
+
+
+2) bar chart
+-----------------
+any graph we needed two axis which are x  and y axis
+- x axis :class
+-y axis:class frequency
+- inoreder to form a bar chart we ned one categorical and one numerical
+- x- axis :- categorical column
+- y- axis:- numerical column
+
+
+3) Distribution table
+---------------------------
+distribution means data flow
+- whnever you see the raw data
+- there is a numerical column having the number
+
+
+4) Histogram
+------------------
+- it is graphical representation of frequency distribution table
+- any graphical we need x- axis and y- axis
+- x- axis :- numerical column
+- y- axis:- numerical column
+

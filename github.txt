@@ -1,0 +1,71 @@
+github
+-----------
+why we required github
+imagine that you are in a company
+at thye time of the joining the company already develloped a code
+manager says already developed a code
+in github the code is available.
+and you work on it.
+qn:??
+full stack:??
+-------------------------------------
+four guys join in the comapany
+code base: 10 years
+             EDA
+             ML model development
+             ML model evaluation
+             ML model deployment
+1stprson=====eda
+2nd person========ml
+3rdperson==============evaluation
+4th person============deployment
+10 years=====main code base eda
+1stp  branch:main code
+2ndp branch:
+3rdp branch:
+4thp branch:
+ i developed a code
+can u please review it then i will merge my branch to the main code base
+
+task:1- we will create a repository in github
+    we are making a code base
+task:2- we will upload our python files in the repository main
+-----------------------------------------------
+task:3-  you need to clone the code base in your local 
+task:4- you will create your branch:dev
+task:5- you will modify the any code
+task:6- tou will ask the permission PR
+task:7- the dev=========main
+task:8- that can visible in the main branch
+task:9- we will delete the dev branch
+
+command prompt
+----------------------------
+git clone <repository url>
+git clone https://github.com/navyasrilakku/EDA_1.git
+
+whenever you cloned 
+a new folder created
+the folder name is : your repository name
+all the files will be available inside that folder
+you need to change the directory till where files are local
+whilee cloning some ppl getting a pop
+asking again sign in
+blue: sign in with your web browser
+check on it
+authorize git-ecosystem(green)
+git branch -a
+
+
+
+
+
+
+
+
+
+
+raise PR
+sandbox: in the class devlop the
+dev: dev branch:100 times
+prod: prod manager team lead
